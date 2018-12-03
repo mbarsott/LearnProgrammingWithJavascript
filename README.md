@@ -7,8 +7,8 @@ You can clone this entire repository and follow along the course by starting wit
 ## Course Outline
 1. What Is Computer Programming [](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)
 2. Why Javascript [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
-3. Execution and Development Environments [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)
-   3.1. Plunker [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+3. Execution and Development Environments [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)  
+   3.1. Plunker [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)  
    3.2. Node.js [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)
 4. Basic Programming Structures and Pseudocode [](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 5. Code Comments [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)
