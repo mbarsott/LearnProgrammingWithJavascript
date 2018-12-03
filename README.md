@@ -1,9 +1,9 @@
 # LearnProgrammingWithJavascript
 ### Learn basic algorithms and programming logic with the Javascript language
 ---
-This git repository contains a course that teaches the basics of algorithms and programming logics using the Javascript language.
+This git repository contains a course that teaches the basics of algorithms and programming logic using the Javascript language.
 
-You can clone this entire repository and follow along the course by starting with this `read me` file and following the links and instructions on it and liked files.
+You can clone this entire repository and follow along the course by starting with this `read me` file and following the links and instructions on it and linked files.
 ## Course Outline
 1. What Is Computer Programming [](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)
 2. Why Javascript [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
