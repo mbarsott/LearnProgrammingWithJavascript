@@ -5,7 +5,7 @@ This git repository contains a course that teaches the basics of algorithms and 
 
 You can clone this entire repository and follow along the course by starting with this `read me` file and following the links and instructions on it and linked files.
 ## Course Outline
-1. What Is Computer Programming [](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)
+1. [What Is Computer Programming](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/01_WhatIsComputerProgramming.md) [](https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro)
 2. Why Javascript [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 3. Execution and Development Environments [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)  
    3.1. Plunker [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)  
