@@ -39,4 +39,6 @@ Now it is your turn to practice. Assume you will write instructions to someone. 
 and tools available. Write precise, ordered, and numbered unambiguous instructions to:
 1. prepare a PB and J sandwich.
 2. prepare a jar of coffee.
-3. place an international phone call using your mobile phone.
+3. place an international phone call using a mobile phone.
+
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/readme.md)
