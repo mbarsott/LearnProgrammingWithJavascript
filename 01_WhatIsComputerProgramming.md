@@ -45,4 +45,4 @@ and tools available. Write precise, ordered, and numbered unambiguous instructio
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
 
-[Next Page]
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md)
