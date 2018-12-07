@@ -17,7 +17,7 @@ We will use Javascript here for a series of reasons. At the time of this writing
 7. Node.js is a very popular platform that leverages Javascript to create server side applications for Mac, Windows and Linux;
 8. Javascript is used to create applications in any domain, from large scale business applications, to graphics programming, to game programming;
 9. There are many tools and libraries freely available for Javascript and many development tools use Javascript as the main language not only for development but also for deployment automation;
-10. There is a lot of free material on the INternet to learn and practice with Javascript.
+10. There is a lot of free material on the Internet to learn and practice with Javascript.
 
 Bonus reason: JavaScript Object Notation (Json) has become the de facto standard to transfer data in distributed applications on the Internet. From web services to security tokens, Json also is everywhere. You will have to learn it anyway and, as the name implies, it originated and is natively used in JavaScript.
 
