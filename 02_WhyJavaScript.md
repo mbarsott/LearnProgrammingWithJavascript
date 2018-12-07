@@ -25,12 +25,10 @@ The Java language was originally created to be mutliplaform. "Write once, run ev
 
 Research:
 
-Find on the Internet the most popular Javascript products to:
-1. Create web single page application (while there, research what are single page applications too).
-2. Create native mobile applications.
-3. Use Javascript to automate web applications deployment.
-4. Create desktop applications.
+Find on the Internet what:
+1. are single page applications (SPAs) and what Javascript based products can be used to create them;
+2. are native mobile applications and what Javascript based products can be used to create them;
+3. is web applications deployment automation and what Javascript based products ca be used to do it;
+4. are desktop applications and what Javascript products can be used to create them.
 
-Tip: Wikipedia is a great resource to explain in high level how things work. You may Google to find a product first, and then search that product in Wikipedia to understand how it works without being bombarded by marketing or tech nonsense.
-
-
+Tip: Wikipedia is a great resource to explain in high level how things work. You may Google to find a technoogy or product first, and then search that product it on Wikipedia to understand how it works without being bombarded by marketing and techie nonsense.
