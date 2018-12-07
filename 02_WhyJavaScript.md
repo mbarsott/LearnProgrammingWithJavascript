@@ -32,3 +32,9 @@ Find on the Internet what:
 4. are desktop applications and what Javascript products can be used to create them.
 
 Tip: Wikipedia is a great resource to explain in high level how things work. You may Google to find a technoogy or product first, and then search that product it on Wikipedia to understand how it works without being bombarded by marketing and techie nonsense.
+
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
