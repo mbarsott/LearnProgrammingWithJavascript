@@ -11,6 +11,6 @@ of that too.
 
 [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
 
-[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/01_WhatIsComputerProgramming.md)
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
 
 [Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
