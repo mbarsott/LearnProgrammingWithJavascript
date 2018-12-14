@@ -9,3 +9,8 @@ In order to keep things simple, we will limit the number of execution environmen
 run as a server on Windows, Macs, and Linux, but since one of the big strenghts of Javascript is running on browsers, we will have a taste
 of that too.
 
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/01_WhatIsComputerProgramming.md)
+
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
