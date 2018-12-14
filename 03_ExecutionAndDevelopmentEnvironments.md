@@ -9,8 +9,25 @@ In order to keep things simple, we will limit the number of execution environmen
 run as a server on Windows, Macs, and Linux, but since one of the big strenghts of Javascript is running on browsers, we will have a taste
 of that too.
 
-[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+To run Javascript in a server context we will use Node.js. Node.js is... . It is a very popular ???. In fact, on Stackoverflow Developer Survey, 2018, Node.js is the most used Framework, Library, or Tool, among the all respondents and professional developers.
+
+To run Javascript on the web we will use a web site that is a combination of development and execution environment: Plunker. Plunker bla bla bla
+
+## Node.js
+
+---
+
+yadda yadda yadda
+
+
+## Plunker
+
+---
+
+Yadda yadda yadda
+
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
