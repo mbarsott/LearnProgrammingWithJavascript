@@ -41,8 +41,8 @@ and tools available. Write precise, ordered, and numbered unambiguous instructio
 2. prepare a jar of coffee.
 3. place an international phone call using a mobile phone.
 
-[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
 
-[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md)
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
