@@ -33,4 +33,4 @@ You can clone this entire repository and follow along the course by starting wit
 24. Built-in Objects [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 25. Testing Your Programs [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/01_WhatIsComputerProgramming.md)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/01_WhatIsComputerProgramming.md#what-is-computer-programming)
