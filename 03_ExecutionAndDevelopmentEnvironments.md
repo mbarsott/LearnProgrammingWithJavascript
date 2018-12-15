@@ -9,7 +9,7 @@ In order to keep things simple, we will limit the number of execution environmen
 run as a server on Windows, Macs, and Linux, but since one of the big strenghts of Javascript is running on browsers, we will have a taste
 of that too.
 
-To run Javascript in a server context we will use Node.js. Node.js is... . It is a very popular ???. In fact, on Stackoverflow Developer Survey, 2018, Node.js is the most used Framework, Library, or Tool, among the all respondents and professional developers.
+To run Javascript in a "standalone application" context, we will use Node.js. Node.js is a JavaScript runtime, designed to build network applications, like web server ones. It is a very popular open source platform that can run on Windows, Mac, or Linux. So popular, in fact, that on the Stackoverflow Developer Survey of 2018, Node.js is the most chosen answer in the "Framework, Library, or Tool" category.
 
 To run Javascript on the web we will use a web site that is a combination of development and execution environment: Plunker. Plunker bla bla bla
 
@@ -17,7 +17,7 @@ To run Javascript on the web we will use a web site that is a combination of dev
 
 ---
 
-yadda yadda yadda
+To run Node.js you have to first download and install it. You can obtain the most recent version for your computer at the official website [nodejs.org](https://nodejs.org). Use all the defaults for the installation.
 
 
 ## Plunker
