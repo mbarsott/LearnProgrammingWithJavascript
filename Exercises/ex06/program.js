@@ -1,15 +1,18 @@
-// Write a function sumArray that takes and array return the sum of its values
+// Write a function calcStatistics that takes and array and writes its minimum value, maximum value, 
+// and average of values.
 // You should write your code in place of the comment below that reads // place your code here
 // The program below should produce the following output:
-// 20
+// Minimum Value: 2
+// Maximum Value: 10
+// Average: 5
 
 program();
 
 function program() {
     var a = [3, 5, 2, 10];
-    console.log(sumArray(a));
+    calcStatistics(a);
 }
 
-function sumArray(a) {
+function calcStatistics(a) {
 // place your code here
 }
