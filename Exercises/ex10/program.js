@@ -14,6 +14,6 @@ function program() {
     console.log("F9 = " + fibonacci(9));
 }
 
-function factorial(n) {
+function fibonacci(n) {
 // place your code here
 }

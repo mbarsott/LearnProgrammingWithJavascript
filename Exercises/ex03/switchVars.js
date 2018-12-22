@@ -6,9 +6,9 @@
 
 var a=3,b=5;
 
-console.log("a = "+a+"; b = "+b);
+console.log("a = " + a + "; b = " + b);
 switchVars();
-console.log("a = "+a+"; b = "+b);
+console.log("a = " + a + "; b = " + b);
 
 function switchVars() {
 // place your code here
