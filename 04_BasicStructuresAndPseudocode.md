@@ -57,8 +57,8 @@ And then, of course you can refine and detail statements further and further in 
 
 Also notice that inside blocks, no matter if conditional, repetition, of function blocks, the code inside the block is indented, so you can easily see what is inside and what is outside of that block.
 
-[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/03_ExecutionAndDevelopmentEnvironments.md#execution-and-development-environments)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
