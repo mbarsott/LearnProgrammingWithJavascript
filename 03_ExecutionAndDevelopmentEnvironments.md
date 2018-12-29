@@ -24,6 +24,19 @@ To run Node.js you have to first download it and install it. You can obtain the 
 
 You can verify that node was properly installed by opening the Command Prompt on Windows (type `[Windows key]`, `cmd`, and `[Enter]`), or the Terminal Application on Mac or Linux, and then typing `node --version[Enter]`. If a version number comes up on the screen, you are good.
 
+If you type `node[Enter]` you will see the Node REPL prompt, `>`. REPL stands for Read, Evaluate, Print, Loop. The prompt indicates that Node will _Read_ whatever expression you type. It can be a Javascript expression or a REPL command. Then the REPL will _Evaluate_ the expression you typed, _Print_ the result of the expression, and _Loop_ back to the _Read_ step. For example, if you type `2+1[Enter]`, Node will show the result of the expression, `3`, and will go back to the prompt. If you want to exit the REPL you can type the command `.exit`.
+
+If you type something the REPL considers it needs to keep reading to evaluate, the REPL will present `...`, and you may think you are stuck, because no matter what you type you keep getting the `...` back. In that case, press `[Ctrl+C]` or type the command `.break` to go back to the REPL prompt. The command `.help` presents the REPL valid commands.
+
+You can create Javascript programs using any text editor. Javascript program files have the extension `.js`. You can create a program that prints the result of the expression `2+1` and run it from node. In order to do that, use a text editor to create a file `exp.js` containing the following Javascript statement (we will learn about statements, and expressions, and the console later, in the course):
+
+```console.log(2+1)```
+
+To execute the program, open the Command Prompt or Terminal on the folder containing the file, and type:
+
+```node exp.js[Enter]```
+
+You should see the result 3 printed out. You could have written just the expression `2+1`, and node would evaluate it, but not print it, like the REPL did. The actual Javascript command to print things on the screen (or console, in this case), is `console.log()`.
 
 ## Plunker
 
