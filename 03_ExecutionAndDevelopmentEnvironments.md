@@ -14,14 +14,15 @@ applications, like web server ones. It is a very popular open source platform th
 n fact, that on the Stackoverflow Developer Survey of 2018, Node.js is the most popular option in the "Framework, Library, or Tool" 
 category.
 
-To run Javascript on a web browser, we will use a web site that is a combination of development and execution environment: Plunker. Plunker bla 
-bla bla
+To run Javascript on a web browser, we will use a web site that is a combination of development and execution environment: Plunker. On Plunker you can create your own web projects, or "_plunks_", containing your Javascript code that will run on browsers, together with whatever other files are needed for that, like _HTML_ and _CSS_ files. Feel free to use Plunker from any browser you want, but I will only provide instructions for the most common one, Google Chrome. If you use other browser, like Firefox, Edge, or Safari, you will have  to find the equivalent commands on your own, but hey, this can be a good thing: you learn to program and also increase your web search and problem solving skills, all at once.
 
 ## Node.js
 
 ---
 
-To run Node.js you have to first download and install it. You can obtain the most recent version for your computer at the official website [nodejs.org](https://nodejs.org). Use all the defaults for the installation.
+To run Node.js you have to first download it and install it. You can obtain the most recent version for your computer at the official website [nodejs.org](https://nodejs.org). Use all the defaults for the installation. If you are running on Linux you may need to do some research on the Internet about how to get Node properly installed, but if that is the case, you are certainly already used to doing that.
+
+You can verify that node was properly installed by opening the Command Prompt on Windows (type `[Windows key]`, `cmd`, and `[Enter]`), or the Terminal Application on Mac or Linux, and then typing `node --version[Enter]`. If a version number comes up on the screen, you are good.
 
 
 ## Plunker
