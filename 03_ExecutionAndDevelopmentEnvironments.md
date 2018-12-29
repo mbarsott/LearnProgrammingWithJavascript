@@ -42,9 +42,13 @@ You can access the Plunker website at [plnkr.co](https://plnkr.co). I recommend 
 
 On the Plunker home page, there is a button that reads `Launch the Editor`, and this will take you to the web page where you can edit your files. By default you will get a Plunk that contains a web page, `index.html`, a readme file `README.md`, a Javascript file `script.js`, and a CSS file `style.css`. These files are listed on the left side of the screen and you can check their contents by clicking on each one of them.
 
-On the top right side of the page there is the icon of an eye. You click that icond to "see" your website on the right panel. The default Plunk is a web site that displays the phrase "Hello Plunker!". You can type your Javascript code on the `script.js` file, and everything is already hooked up for your code to execute. If you click on the `script.js` file name, on the left panel, you can see it contains the following text: ```// Code goes here```
+On the top right side of the page there is the icon of an eye. You click that icond to "see" your website on the right panel. The default Plunk is a web site that displays the phrase "Hello Plunker!". You can type your Javascript code on the `script.js` file, and everything is already hooked up for your code to execute. If you click on the `script.js` file name, on the left panel, you can see it contains the following text: 
 
-Replace that content witht he Javascript print statement we used previsouly, when we ran a program in Node: ```console.log(2+1)```
+```// Code goes here```
+
+Replace that content witht he Javascript print statement we used previsouly, when we ran a program in Node:
+
+```console.log(2+1)```
 
 You may be disappointed for not seeing the result right away, but believe me, it is there. To see the printed result of your Javascript program, you have to check the browser "Console". In Chrome you can go to the menu, select `More tools` and then `Developer tools`, or press `[Ctrl+Shift+I]` or `F12`. The Developer Tools pane will appear, and then you can click on 'Console' to see what is printed there. Many things will be already written on the Console, but the result of the expression, `3`, should be the last one. The reason for other things showing up on the Console, is that the browser Console is presenting information that comes from the entire page, that means the Plunker website page, and not only from your program. In addition to that, Plunker works in a way that every change you make on your Plunk is evaluated and displayed, so you may see partial results of the code you typed in your program, including errors if the Javascript command was evaluated before you finished typing.
 
