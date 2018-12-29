@@ -62,7 +62,7 @@ I mentioned you can write your Javascript programs in any text editor, and that 
 
 If you want to install and learn about Visual Studio Code you can do it from the official [Visual Studio Code website](https://code.visualstudio.com/).
 
-[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
 
