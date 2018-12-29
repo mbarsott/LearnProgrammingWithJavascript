@@ -54,6 +54,14 @@ You may be disappointed for not seeing the result right away, but believe me, it
 
 You can enter a name for your Plunk on the "Description" text area on the left panel, under "PLUNK", and if you made changes to your Plunk you can save them with the `Save` button on the top toolbar. If you leave Plunker and return another day, after you login with your Github user, you can click on your user name on the top right, and from the drop down menu select "My plunks" to see all your saved Plunks. When you move your mouse pointer over any of these Plunks, the very first icon, "Edit this Plunk" will take you back to the Plunk editor, at the point you last saved your work.
 
+## Integrated Development Environment
+
+---
+
+I mentioned you can write your Javascript programs in any text editor, and that is true. It does not mean it is wise, though. If you use an Integrated Development Environment, or IDE, that understands Javascript, your life will be A LOT easier when creating or editing your  programs. You will probably get many benefits like syntax highlighting, auto completion, and many others, and you will be able to find your errors a lot quicker. There are many nice IDEs available for free, but I usually recommend sticking to the most popular technologies, instead of the coolest ones, although sometimes they are the same. The reason for that is twofold: first, if it is popular, there is a high demand for people with that skill; second, the technology is a lot less likely to die. That being said, the most popular IDE on the Stackoverflow developers survey, 2018, is Visual Studio Code, which is a wonderfull free tool, written in Electron with Javascript by the Microsoft folks, and runs on Windows, Mac, and Linux. If you prefer using other IDE, there is Atom and Sublime for free, or Webstorm for a fee, or any other tool you prefer. Really, I will not dig into IDEs here, and using one is just a suggestion. 
+
+If you want to install and learn about Visual Studio Code you can do it from the official [Visual Studio Code website](https://code.visualstudio.com/).
+
 [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
