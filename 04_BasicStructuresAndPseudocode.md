@@ -56,3 +56,9 @@ end function
 And then, of course you can refine and detail statements further and further in new functions. This is one of the most important skills you can learn when creating algorithms and computer programs. Experience will teach you how to think generically about a problem solution, in large abstract steps, and then refine and detail each step successively until you can implement your program in a computer language.
 
 Also notice that inside blocks, no matter if conditional, repetition, of function blocks, the code inside the block is indented, so you can easily see what is inside and what is outside of that block.
+
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
+
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
+
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
