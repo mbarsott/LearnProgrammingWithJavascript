@@ -66,4 +66,4 @@ If you want to install and learn about Visual Studio Code you can do it from the
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/04_BasicStructuresAndPseudocode.md#basic-programming-structures-and-pseudocode)
