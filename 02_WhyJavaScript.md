@@ -33,7 +33,7 @@ Find on the Internet what:
 
 Tip: Wikipedia is a great resource to explain in high level how things work. You may Google to find a technoogy or product first, and then search that product it on Wikipedia to understand how it works without being bombarded by marketing and techie nonsense.
 
-[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/01_WhatIsComputerProgramming.md#what-is-computer-programming)
 
