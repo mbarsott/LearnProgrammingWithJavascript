@@ -1,4 +1,4 @@
-# LearnProgrammingWithJavascript
+# Learn Programming With Javascript
 ### Learn basic algorithms and programming logic with the Javascript language
 ---
 This git repository contains a course that teaches the basics of algorithms and programming logic using the Javascript language.
