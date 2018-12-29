@@ -59,6 +59,6 @@ Also notice that inside blocks, no matter if conditional, repetition, of functio
 
 [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
 
-[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/02_WhyJavaScript.md#why-javascript)
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/03_ExecutionAndDevelopmentEnvironments.md#execution-and-development-environments)
 
 [Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learnprogrammingwithjavascript)
