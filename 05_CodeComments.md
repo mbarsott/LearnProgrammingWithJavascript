@@ -1,10 +1,10 @@
-When you write programs, it is sometimes useful to write comments, so you, or anyone reading the program, can understand it better. 
-
-The comments are completely ignored by the program interpreter in the computer, so you can write anything on the comments and it will never cause any error.
-
 # Code Comments
 
 ---
+
+When you write programs, it is sometimes useful to write comments, so you, or anyone reading the program, can understand it better. 
+
+The comments are completely ignored by the program interpreter in the computer, so you can write anything on the comments and it will never cause any error.
 
 In Javascript there are two types of comments: line comments and block comments.
 
