@@ -61,4 +61,4 @@ Also notice that inside blocks, no matter if conditional, repetition, of functio
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/03_ExecutionAndDevelopmentEnvironments.md#execution-and-development-environments)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/05_CodeComments.md#code-comments)
