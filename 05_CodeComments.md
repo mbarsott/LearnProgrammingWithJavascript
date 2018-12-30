@@ -43,3 +43,8 @@ You will see this in this course exercises. The exercises are contained in numbe
 ```
 In this case all you have to do is replace the last comment line with your code. Try doing this and running the program using Node.js.
 
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
+
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/04_BasicStructuresAndPseudocode.md#basic-programming-structures-and-pseudocode)
+
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
