@@ -32,7 +32,7 @@ As you can see above, you can mix and match both types of comments.
 
 Comments are used to explain code, call attention to parts of the program, inform about licenses and copyrights, and they can also be used to organize your thoughts before writing a program: you can write the pseudocode for your program as comments and then add the actual Javascript commands or replace the comments with commands to implement the pseudocode.
 
-You will see this in this course exercises. The exercises are contained in numbered folders under the `exercises` folder. Every exercise is one or more files that contains instructions as comments. For example, this is exercise number one (file `HelloWorld.js` in the `ex01` folder):
+You will see this in this course exercises. The exercises are contained in numbered folders under the `Exercises` folder. For example `\Exercises\ex01`, '\Exercises\ex02`, and so on. Every exercise is one or more source code files, and they contain instructions as comments. For example, this is exercise number one (file `HelloWorld.js` in the `ex01` folder):
 ```
 // Write a program that prints the string "Hello, World!" using the console.log function
 // You should write your code in place of the comment below that reads // place your code here
@@ -41,7 +41,7 @@ You will see this in this course exercises. The exercises are contained in numbe
 
 // place your code here
 ```
-In this case all you have to do is replace the last comment line with your code. Try doing this and running the program using Node.js.
+In this case all you have to do is replace the last comment line with your code. You will do it in the next page, when you learn about IO and Hello World
 
 [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
