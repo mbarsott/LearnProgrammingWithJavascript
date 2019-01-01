@@ -25,3 +25,9 @@ One last thing to remember, when you write Javascript code: **JAVASCRIPT IS CASE
 ## Hello World
 
 One famous tradition in learning computer languages is creating your first program to write the text "Hello World!" on the screen. I guess that if you have gone this far in this course you have all the knowledge you need to to that, so you are ready to do your first exercise, that you will find in the `ex01` folder, under `Exercises`: create your Hello World program and run it in Node.js.
+
+[Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
+
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/05_CodeComments.md#code-comments)
+
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
