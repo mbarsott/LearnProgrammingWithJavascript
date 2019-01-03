@@ -66,4 +66,8 @@ printWithDateAndTime();
 
 Well I guess you now have the knowledge needed to try the second exercise, under the `Exercises/ex02` folder.
 
- 
+ [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
+
+[Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/06_IOandHelloWorld.md#io-and-hello-world)
+
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
