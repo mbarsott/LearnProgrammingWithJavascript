@@ -30,4 +30,4 @@ One famous tradition in learning computer languages is creating your first progr
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/05_CodeComments.md#code-comments)
 
-[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
+[Next Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/07_Functions.md#functions)
