@@ -14,7 +14,7 @@ You can clone this entire repository and follow along the course by starting wit
 4. [Basic Programming Structures and Pseudocode](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/04_BasicStructuresAndPseudocode.md#basic-programming-structures-and-pseudocode) [](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 5. [Code Comments](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/05_CodeComments.md#code-comments) [](https://app.pluralsight.com/library/courses/learning-programming-javascript/table-of-contents)
 6. [IO and Hello World](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/06_IOandHelloWorld.md#io-and-hello-world)  [](https://www.hackerrank.com/challenges/30-hello-world/tutorial)
-7. Functions [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+7. [Functions](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/07_Functions.md#functions) [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 8. Expressions and Statements [](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
 9. Variables [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 10. String and Numeric Types [](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
