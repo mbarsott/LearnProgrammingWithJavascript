@@ -23,7 +23,7 @@ A block comment is anything between the characters `/*` and `*/`. It can appear 
 /* This is a Javascript block comment.
    This comment spans more than one line. */
 /*
-   Anything between "whack asterisk" and "asterisk whack" is not considered actual Javascript code, and is ignored
+   Anything between "whack asterisk" and "asterisk whack" is not considered executable Javascript code, and is ignored
    when running the program.
 */
 console.log(/*The answer to the fundamental question, according to a certain book*/42) // prints 42
