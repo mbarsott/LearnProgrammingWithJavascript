@@ -64,7 +64,7 @@ function printWithDateAndTime() {
 printWithDateAndTime();
 ```
 
-Well I guess you now have the knowledge needed to try the second exercise, under the `Exercises/ex02` folder.
+Well I guess you now have the knowledge needed to try the second exercise, under the [`Exercises/ex02` folder](https://github.com/mbarsott/LearnProgrammingWithJavascript/tree/master/Exercises/ex02).
 
  [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
