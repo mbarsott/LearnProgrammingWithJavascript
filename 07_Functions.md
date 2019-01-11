@@ -66,6 +66,32 @@ printWithDateAndTime();
 
 Well I guess you now have the knowledge needed to try the second exercise, under the [`Exercises/ex02` folder](https://github.com/mbarsott/LearnProgrammingWithJavascript/tree/master/Exercises/ex02).
 
+## Returning values
+
+A function can return a value to it's caller. This is done with the keyword `return`. Whenever javascript finds the keyword return it will stop executing the function and return to the point where the function was called. If the keyword `return` is followed by an expression, the result of the expression will be the value returned by the function. Try the following code in node.js:
+
+```console.log(returnTitle())
+console.log(returnHello());
+console.log(returnWorld());
+console.log(returnNothing());
+
+function returnTitle() {
+    return 1;
+}
+
+function returnHello() {
+    return 'Hello';
+}
+
+function returnWorld() {
+    return 'World';
+}
+
+function returnNothing() {
+    return;
+}```
+
+
  [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
 [Previous Page](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/06_IOandHelloWorld.md#io-and-hello-world)
