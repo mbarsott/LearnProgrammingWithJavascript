@@ -89,7 +89,8 @@ function returnWorld() {
 
 function returnNothing() {
     return;
-}```
+}
+```
 
 
  [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
