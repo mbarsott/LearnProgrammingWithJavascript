@@ -70,7 +70,8 @@ Well I guess you now have the knowledge needed to try the second exercise, under
 
 A function can return a value to it's caller. This is done with the keyword `return`. Whenever javascript finds the keyword return it will stop executing the function and return to the point where the function was called. If the keyword `return` is followed by an expression, the result of the expression will be the value returned by the function. Try the following code in node.js:
 
-```console.log(returnTitle())
+```
+console.log(returnTitle())
 console.log(returnHello());
 console.log(returnWorld());
 console.log(returnNothing());
@@ -92,6 +93,27 @@ function returnNothing() {
 }
 ```
 
+Notice that we call the function `console.log` four times in the beginning of this program, and each time, instead of passing a value directly, we pass a "function call". In this case, what will be printed will be the result of the function call, which is exactly the value returned by the function. What about the last function? It returns nothing? Can you check what is printed by executing this code in node.js?
+
+We have been saying that in order to print something you have to pass a value to the function `console.log`. This leads us to our next function topic: arguments and paramenters.
+
+## Arguments and Parameters
+
+What you pass to functions are not exactly values. The technical term is "arguments". In the previous code sample above, we passed the results of functions executions as arguments. 
+
+Remember we said programs usually have Input, Processing, and Output. Functions are similar. Arguments are like "the input" for functions. After these inputs are processed, the function produces an output. The return value is like "the output" of the function.
+
+For example, in the program below we pass two numbers as arguments to the `multiply` function. We will talk more about it, but for now you just need to know the asterisk ( * ) is the multiplication operator in Javascript and also in most modern languages. The function below multiplies (processes) these numbers and return the result, that is printed, because it is passed as argument to the `console.log` function. Try it yourself in node.js:
+
+```
+console.log(multiply(7,4));
+
+function multiply(firstNumber, secondNumber) {
+    return firstNumber * secondNumber;
+}
+```
+
+You probably noticed that we defined the function giving names to the arguments coming into the function. These names are called paramenters. They are like little named boxes where we put the arguments so we can use them when doing the function processing whenever we want them.
 
  [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
