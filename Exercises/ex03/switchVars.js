@@ -2,7 +2,7 @@
 // You should write your code in place of the comment below that reads // place your code here
 // The program below should produce the following output:
 // a = 3; b = 5
-// a = 5; b = 3
+// a = 5; b = 3 
 
 var a=3,b=5;
 
