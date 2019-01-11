@@ -113,7 +113,7 @@ function multiply(firstNumber, secondNumber) {
 }
 ```
 
-You probably noticed that we defined the function giving names to the arguments coming into the function. These names are called paramenters. They are like little named boxes where we put the arguments so we can use them when doing the function processing whenever we want them.
+You probably noticed that we defined the function giving names to the arguments coming into the function. These names are called paramenters. They are like little named boxes where we put the arguments so we can use them when doing the function processing whenever we want them. In the program above, we say that the function `multiply` receives two parameters: `firstNumber` and `secondNumber`.
 
  [Back to course outline](https://github.com/mbarsott/LearnProgrammingWithJavascript/blob/master/README.md#learn-programming-with-javascript)
 
